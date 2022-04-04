@@ -35,3 +35,6 @@ Language : Pʏᴛʜᴏɴ3
 Library : [Pʏʀᴏɢʀᴀᴍ Asʏɴᴄɪᴏ](https://docs.pyrogram.org/)
 
 Source Code : [Cʟɪᴄᴋ Hᴇʀᴇ](https://t.me/minitheaterlinkloop)
+
+Tutorial : [Click Me](https://youtube.com/channel/UCqRmM0N9Z-7bBiTqJsfFWwg)
+"""
