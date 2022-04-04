@@ -114,8 +114,8 @@ async def start(bot, message):
                 [[
                 InlineKeyboardButton(" Sᴇᴀʀᴄʜ Hᴇʀᴇ 🔍", switch_inline_query_current_chat='')
                 ],[
-                InlineKeyboardButton("📥 Mᴏᴠɪᴇs 📥", url='https://t.me/MiniTheaterLinkLoop'),
-                InlineKeyboardButton("💌 𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 💌", url='https://youtu.be/2tek7Y5CEF4'),
+                InlineKeyboardButton(" Mᴏᴠɪᴇs⭐ ", url='https://t.me/MiniTheaterLinkLoop'),
+                InlineKeyboardButton("Gʀᴏᴜᴘ 🔖", url='https://t.me/minitheaterhd'),
                 ]]
             )
         )
