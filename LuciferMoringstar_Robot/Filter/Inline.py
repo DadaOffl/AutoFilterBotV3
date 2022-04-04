@@ -89,7 +89,7 @@ async def answer(bot, query):
 
 def get_reply_markup(query):
     buttons = [[
-        InlineKeyboardButton('📺 SUBSCRIBE 📺', url=f'{TUTORIAL}')
+        InlineKeyboardButton("𝐉𝐎𝐈𝐍 𝐌𝐎𝐕𝐈𝐄 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 🤠", url='https://t.me/minitheaterlinkloop'),
         ],[
         InlineKeyboardButton('🔍 Search again 🔎', switch_inline_query_current_chat=query)
         ]]
