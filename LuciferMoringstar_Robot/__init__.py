@@ -28,9 +28,9 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  SAMANTHA MOVIE BOT
+➥ Name :  DADA AUTO FILTER BOT
     
-➥ Creator : [LXR YOUTUBER](https://youtube.com/channel/UCqRmM0N9Z-7bBiTqJsfFWwg)
+➥ Creator : [MINI THEATER](https://t.me/minitheaterlinkloop)
 
 ➥ Language : Python3
 
