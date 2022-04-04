@@ -115,7 +115,6 @@ async def start(bot, message):
                 InlineKeyboardButton("📺 𝗦𝗘𝗔𝗥𝗖𝗛 𝗛𝗘𝗥𝗘 🔍", switch_inline_query_current_chat='')
                 ],[ 
                 InlineKeyboardButton ('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘs ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-                InlineKeyboardButton(" 𝗠𝗢𝗩𝗜𝗘'𝘀 🤠", url='https://t.me/minitheaterlinkloop'),
                 InlineKeyboardButton("𝗠𝗼𝘃𝗶𝗲 𝗥𝗲𝗾𝘂𝗲𝘀𝘁𝘀 𝗚𝗿𝗼𝘂𝗽 ⭐", url='https://t.me/minitheaterlinkloop'),
                 ]]
             )
@@ -126,7 +125,7 @@ async def start(bot, message):
 async def channel_info(bot, message):
     """Send basic information of channel"""
     if isinstance(CHANNELS, (int, str)):
-        channels = [CHANNELS]
+        channels = [CHANNELS] 
     elif isinstance(CHANNELS, list):
         channels = CHANNELS
     else:
