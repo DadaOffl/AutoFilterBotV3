@@ -114,8 +114,8 @@ async def start(bot, message):
                 [[
                 InlineKeyboardButton("📺 𝗦𝗘𝗔𝗥𝗖𝗛 𝗛𝗘𝗥𝗘 🔍", switch_inline_query_current_chat='')
                 ],[
-                InlineKeyboardButton("📥 𝗠𝗢𝗩𝗜𝗘𝗦 📥", url='https://t.me/+1Pvi0kFnMu8zZjM9'),
-                InlineKeyboardButton("💌 𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 💌", url='https://youtu.be/2tek7Y5CEF4'),
+                InlineKeyboardButton(" 𝗠𝗢𝗩𝗜𝗘'𝘀 🤠", url='https://t.me/minitheaterlinkloop'),
+                InlineKeyboardButton("𝗠𝗼𝘃𝗶𝗲 𝗥𝗲𝗾𝘂𝗲𝘀𝘁𝘀 𝗚𝗿𝗼𝘂𝗽 ⭐", url='https://t.me/minitheaterlinkloop'),
                 ]]
             )
         )
@@ -328,7 +328,7 @@ async def bot_info(bot, message):
     buttons = [
         [
             
-            InlineKeyboardButton('SUBSCRIBE 🔔', url=f'{TUTORIAL}')
+            InlineKeyboardButton('𝐌𝐨𝐫𝐞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐉𝐨𝐢𝐧 ⚡', url='https://t.me/minitheaterlinkloop'),
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
