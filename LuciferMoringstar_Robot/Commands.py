@@ -112,7 +112,7 @@ async def start(bot, message):
         await message.reply_photo(photo=START_IMG, caption=START_MSG.format(message.from_user.mention),
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton("📺 𝗦𝗘𝗔𝗥𝗖𝗛 𝗛𝗘𝗥𝗘 🔍", switch_inline_query_current_chat='')
+                InlineKeyboardButton(" Sᴇᴀʀᴄʜ Hᴇʀᴇ 🔍", switch_inline_query_current_chat='')
                 ],[
                 InlineKeyboardButton("📥 𝗠𝗢𝗩𝗜𝗘𝗦 📥", url='https://t.me/+1Pvi0kFnMu8zZjM9'),
                 InlineKeyboardButton("💌 𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 💌", url='https://youtu.be/2tek7Y5CEF4'),
