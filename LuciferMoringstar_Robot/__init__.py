@@ -28,13 +28,14 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  DADA AUTO FILTER BOT
-    
-➥ Creator : [MINI THEATER](https://t.me/minitheaterlinkloop)
+Developer : ❀DᴀDᴀ❀ 😪
 
-➥ Language : Python3
+Language : Pʏᴛʜᴏɴ3
 
-➥ Library : Pyrogram Asyncio 1.13.0
+Library : [Pʏʀᴏɢʀᴀᴍ Asʏɴᴄɪᴏ](https://docs.pyrogram.org/)
 
-➥ Tutorial : [Click Me](https://youtube.com/channel/UCqRmM0N9Z-7bBiTqJsfFWwg)
-"""
+Source Code : [Cʟɪᴄᴋ Hᴇʀᴇ
+
+https://t.me/minitheaterlinkloop)
+
+Help Group :  [Mɪɴɪ Tʜᴇᴀᴛᴇʀ](https://t.me/minitheaterhd)
