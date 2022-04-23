@@ -131,11 +131,8 @@ async def group(client, message):
 
         'url':f'https://www.imdb.com/title/tt{movieid}
         
-            UPLOADED BY : url='https://t.me/minitheaterlinkloop'),
+            UPLOADED BY : url='https://t.me/minitheaterlinkloop'),    
 
-                 
-
- 
             }
         nyva=BOT.get("username")
         if not nyva:
