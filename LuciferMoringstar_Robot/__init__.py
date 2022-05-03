@@ -34,7 +34,5 @@ Language : Pʏᴛʜᴏɴ3
 
 Library : [Pʏʀᴏɢʀᴀᴍ Asʏɴᴄɪᴏ](https://docs.pyrogram.org/)
 
-Source Code : [Cʟɪᴄᴋ Hᴇʀᴇ](https://t.me/minitheaterlinkloop)
-
-Help Group :  [Mɪɴɪ Tʜᴇᴀᴛᴇʀ](https://t.me/minitheaterhd)
+Source Code : [Cʟɪᴄᴋ Hᴇʀᴇ](https://t.me/Dada_offil)
 """
