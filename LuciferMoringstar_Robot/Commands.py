@@ -84,7 +84,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton(' 𝙅𝙊𝙄𝙉 𝙈𝙊𝙑𝙄𝙀 𝙐𝙋𝘿𝘼𝙏𝙀𝙎 ⭐ ', url='https://t.me/minitheaterlinkloop'),
+                        InlineKeyboardButton(' 𝙅𝙊𝙄𝙉 𝙈𝙊𝙑𝙄𝙀 𝙐𝙋𝘿𝘼𝙏𝙀𝙎 ⭐ ', url='https://t.me/dada_linkz'),
                     ]
                     ]
                 await bot.send_cached_media(
@@ -114,8 +114,8 @@ async def start(bot, message):
                 [[
                 InlineKeyboardButton(" Sᴇᴀʀᴄʜ Hᴇʀᴇ 🔍", switch_inline_query_current_chat='')
                 ],[
-                InlineKeyboardButton(" Mᴏᴠɪᴇs⭐ ", url='https://t.me/MiniTheaterLinkLoop'),
-                InlineKeyboardButton("Gʀᴏᴜᴘ 🔖", url='https://t.me/minitheaterhd'),
+                InlineKeyboardButton(" Mᴏᴠɪᴇs⭐ ", url='https://t.me/Dada_Linkz'),
+                InlineKeyboardButton("Gʀᴏᴜᴘ 🔖", url='https://t.me/+B5vPQOaIUAk2YTY1'),
                 ]]
             )
         )
@@ -328,7 +328,7 @@ async def bot_info(bot, message):
     buttons = [
         [
             
-            InlineKeyboardButton('𝐌𝐨𝐫𝐞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐉𝐨𝐢𝐧 ⚡', url='https://t.me/minitheaterlinkloop'),
+            InlineKeyboardButton('𝐌𝐨𝐫𝐞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐉𝐨𝐢𝐧 ⚡', url='https://t.me/Dada_Linkz'),
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
