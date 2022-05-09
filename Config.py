@@ -45,7 +45,7 @@ START_MSG = environ.get('START_MSG', default_start_msg)
 START_IMG = environ.get("START_IMG", "") 
 
 FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "")
-OMDB_API_KEY = environ.get("OMDB_API_KEY", "http://www.omdbapi.com/?i=tt3896198&apikey=4f08a979")
+OMDB_API_KEY = environ.get("OMDB_API_KEY", "http://www.omdbapi.com/?i=tt3896198&apikey=fdf9301")
 if FILE_CAPTION.strip() == "":
     CUSTOM_FILE_CAPTION=None
 else:
