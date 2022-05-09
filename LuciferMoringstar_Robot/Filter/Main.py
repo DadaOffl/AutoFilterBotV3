@@ -54,7 +54,7 @@ async def filter(client, message):
         btn = []
         search = message.text
         
-        mo_tech_yt = f"**🗂️ Title:** {search}\n**📤 Uploaded by @dada_linkz**"
+        mo_tech_yt = f"**🗂️ Title:** **{search}**\n**📤 Uploaded by @dada_linkz**"
         files = await get_filter_results(query=search)
         if files:
             for file in files:
@@ -116,7 +116,7 @@ async def group(client, message):
     if 2 < len(message.text) < 50:    
         btn = []
         search = message.text
-        mo_tech_yt = f"**🗂️ Title:** {search}\n**📤 Uploaded by @Dada_Linkz**"
+        mo_tech_yt = f"**🗂️ Title:** **{search}**\n**📤 Uploaded by @Dada_Linkz**"
         nyva=BOT.get("username")
         if not nyva:
             botusername=await client.get_me()
